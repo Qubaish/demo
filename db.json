@@ -1,5 +1,5 @@
 {
-  hotels: [
+  "hotels": [
     {
       "name": "Media One Hotel",
       "price": 102.2,
